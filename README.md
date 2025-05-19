@@ -35,7 +35,7 @@ Soy un apasionado del desarrollo frontend con énfasis en Vue.js y tecnologías 
 | Proyecto           | Descripción                                        | Link                                               |
 |--------------------|--------------------------------------------------|----------------------------------------------------|
 | AppAhorros     | App para el manejo de ingresos y gastos   | [github.com/OctavioPF/AppAhorros](https://github.com/OctavioPF/AppAhorros) |
-| Cuestinoario Vue  | Cuestonario con el nuso de Vue.js para su creacion| [github.com/OctavioPF/CuestionarioVue](https://github.com/OctavioPF/CuestionarioVue)       |
+| Cuestinoario Vue  | Cuestonario con el uso de Vue.js para su creacion| [github.com/OctavioPF/CuestionarioVue](https://github.com/OctavioPF/CuestionarioVue)       |
 | TaskApp      | Aplicación para control de pendientescon el uso de React  | [github.com/OctavioPF/TaskApp](https://github.com/OctavioPF/TaskApp)|
 
 
