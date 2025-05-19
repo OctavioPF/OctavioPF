@@ -1,23 +1,37 @@
-### HOLA SOY JOSE OCTAVIO 👋
+# 👋 ¡Hola, soy Jose Octavio]!
 
-Desarrollador de software con un enfoque en tecnologías frontend y backend. Me apasiona crear aplicaciones web eficientes, optimizadas y agradables para la vista. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. Actualmente estoy en busca de nuevos desafios que me impulsen a ser un mejor profesional
+**Desarrollador Frontend | Especialista en Vue.js y tecnologias modernas **
 
-### 🔧 Tecnologías y Herramientas:
-- **Frontend**: HTML, CSS, JavaScript, Vue.js, React.js 
-- **Backend**: PHP, laravel, FastAPI, Node.js, Python, Kotlin
-- **Bases de Datos**: MySQL, MariaDB, Firebase
-- **Otras**: VS Code, Git, Postman, Photoshop, Ilustrator, Wordpress, Android Studio
+---
 
-### 🛠️ Habilidades Principales:
-- **Trabajo en equipo**
-- **Autodidacta**
-- **Comunicación Efectiva**
-- **Responsable**
-- **Aprendizaje Rapido**
+## 🌟 Sobre mí
+Soy un apasionado del desarrollo frontend con énfasis en Vue.js y tecnologías modernas. Me encanta crear aplicaciones web rápidas, accesibles y con diseño elegante. Siempre estoy aprendiendo nuevas herramientas y mejores prácticas para crecer profesionalmente.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OctavioPF&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_progress=true)
+---
+
+## 🚀 Tecnologías & Frameworks
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue Router](https://img.shields.io/badge/-Vue%20Router-35495E?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+
+---
+
+## 💼 Proyectos destacados
+
+| Proyecto           | Descripción                                        | Link                                               |
+|--------------------|--------------------------------------------------|----------------------------------------------------|
+| AppAhorros     | App para el manejo de ingresos y gastos   | [github.com/OctavioPF/AppAhorros](https://github.com/OctavioPF/AppAhorros) |
+| Cuestinoario Vue  | Cuestonario con el nuso de Vue.js para su creacion| [github.com/OctavioPF/CuestionarioVue](https://github.com/OctavioPF/CuestionarioVue)       |
+| TaskApp      | Aplicación para control de pendientescon el uso de React  | [github.com/OctavioPF/TaskApp](https://github.com/OctavioPF/TaskApp)|
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+
+
